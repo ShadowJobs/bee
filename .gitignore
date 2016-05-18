@@ -1,4 +1,7 @@
 # Compiled Lua sources
+*.iml
+.idea*
+*.DS_Store
 luac.out
 
 # luarocks build files
